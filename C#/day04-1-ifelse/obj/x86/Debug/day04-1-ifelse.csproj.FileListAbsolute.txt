@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-1-ifelse/bin/Debug/day04-1-ifelse.exe
+/Users/zmy-/Projects/学习笔记/day04-1-ifelse/bin/Debug/day04-1-ifelse.pdb
+/Users/zmy-/Projects/学习笔记/day04-1-ifelse/obj/x86/Debug/day04-1-ifelse.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-1-ifelse/obj/x86/Debug/day04-1-ifelse.exe
+/Users/zmy-/Projects/学习笔记/day04-1-ifelse/obj/x86/Debug/day04-1-ifelse.pdb

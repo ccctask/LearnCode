@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-16-003-被观察和观察1/bin/Debug/day-16-003-被观察和观察1.exe
+/Users/zmy-/Projects/学习笔记/day-16-003-被观察和观察1/bin/Debug/day-16-003-被观察和观察1.pdb
+/Users/zmy-/Projects/学习笔记/day-16-003-被观察和观察1/obj/x86/Debug/day-16-003-被观察和观察1.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-16-003-被观察和观察1/obj/x86/Debug/day-16-003-被观察和观察1.exe
+/Users/zmy-/Projects/学习笔记/day-16-003-被观察和观察1/obj/x86/Debug/day-16-003-被观察和观察1.pdb

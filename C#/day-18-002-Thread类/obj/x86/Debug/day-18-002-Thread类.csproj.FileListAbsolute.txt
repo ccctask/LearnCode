@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-18-002-Thread类/bin/Debug/day-18-002-Thread类.exe
+/Users/zmy-/Projects/学习笔记/day-18-002-Thread类/bin/Debug/day-18-002-Thread类.pdb
+/Users/zmy-/Projects/学习笔记/day-18-002-Thread类/obj/x86/Debug/day-18-002-Thread类.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-18-002-Thread类/obj/x86/Debug/day-18-002-Thread类.exe
+/Users/zmy-/Projects/学习笔记/day-18-002-Thread类/obj/x86/Debug/day-18-002-Thread类.pdb

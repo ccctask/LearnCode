@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day02-获取用户输入/obj/x86/Debug/day02-获取用户输入.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day02-获取用户输入/bin/Debug/day02-获取用户输入.exe
+/Users/zmy-/Projects/学习笔记/day02-获取用户输入/bin/Debug/day02-获取用户输入.pdb
+/Users/zmy-/Projects/学习笔记/day02-获取用户输入/obj/x86/Debug/day02-获取用户输入.exe
+/Users/zmy-/Projects/学习笔记/day02-获取用户输入/obj/x86/Debug/day02-获取用户输入.pdb

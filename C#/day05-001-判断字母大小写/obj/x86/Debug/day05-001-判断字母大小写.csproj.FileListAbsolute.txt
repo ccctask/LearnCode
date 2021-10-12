@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day05-001-判断字母大小写/obj/x86/Debug/day05-001-判断字母大小写.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day05-001-判断字母大小写/bin/Debug/day05-001-判断字母大小写.exe
+/Users/zmy-/Projects/学习笔记/day05-001-判断字母大小写/bin/Debug/day05-001-判断字母大小写.pdb
+/Users/zmy-/Projects/学习笔记/day05-001-判断字母大小写/obj/x86/Debug/day05-001-判断字母大小写.exe
+/Users/zmy-/Projects/学习笔记/day05-001-判断字母大小写/obj/x86/Debug/day05-001-判断字母大小写.pdb

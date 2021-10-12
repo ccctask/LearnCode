@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-16-004-LINQ查询/bin/Debug/day-16-004-LINQ查询.exe
+/Users/zmy-/Projects/学习笔记/day-16-004-LINQ查询/bin/Debug/day-16-004-LINQ查询.pdb
+/Users/zmy-/Projects/学习笔记/day-16-004-LINQ查询/obj/x86/Debug/day-16-004-LINQ查询.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-16-004-LINQ查询/obj/x86/Debug/day-16-004-LINQ查询.exe
+/Users/zmy-/Projects/学习笔记/day-16-004-LINQ查询/obj/x86/Debug/day-16-004-LINQ查询.pdb

@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-4-dowhile/bin/Debug/day04-4-dowhile.exe
+/Users/zmy-/Projects/学习笔记/day04-4-dowhile/bin/Debug/day04-4-dowhile.pdb
+/Users/zmy-/Projects/学习笔记/day04-4-dowhile/obj/x86/Debug/day04-4-dowhile.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-4-dowhile/obj/x86/Debug/day04-4-dowhile.exe
+/Users/zmy-/Projects/学习笔记/day04-4-dowhile/obj/x86/Debug/day04-4-dowhile.pdb

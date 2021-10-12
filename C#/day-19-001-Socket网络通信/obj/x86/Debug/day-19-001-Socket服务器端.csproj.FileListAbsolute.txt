@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-19-001-Socket网络通信/bin/Debug/day-19-001-Socket网络通信.exe
+/Users/zmy-/Projects/学习笔记/day-19-001-Socket网络通信/bin/Debug/day-19-001-Socket网络通信.pdb
+/Users/zmy-/Projects/学习笔记/day-19-001-Socket网络通信/obj/x86/Debug/day-19-001-Socket服务器端.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-19-001-Socket网络通信/obj/x86/Debug/day-19-001-Socket网络通信.exe
+/Users/zmy-/Projects/学习笔记/day-19-001-Socket网络通信/obj/x86/Debug/day-19-001-Socket网络通信.pdb

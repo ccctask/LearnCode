@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-11-001-集合体之一List/bin/Debug/day-11-001-集合体之一List.exe
+/Users/zmy-/Projects/学习笔记/day-11-001-集合体之一List/bin/Debug/day-11-001-集合体之一List.pdb
+/Users/zmy-/Projects/学习笔记/day-11-001-集合体之一List/obj/x86/Debug/day-11-001-集合体之一List.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-11-001-集合体之一List/obj/x86/Debug/day-11-001-集合体之一List.exe
+/Users/zmy-/Projects/学习笔记/day-11-001-集合体之一List/obj/x86/Debug/day-11-001-集合体之一List.pdb

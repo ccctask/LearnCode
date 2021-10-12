@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-05-008-数组遍历/bin/Debug/day-05-008-数组遍历.exe
+/Users/zmy-/Projects/学习笔记/day-05-008-数组遍历/bin/Debug/day-05-008-数组遍历.pdb
+/Users/zmy-/Projects/学习笔记/day-05-008-数组遍历/obj/x86/Debug/day-05-008-数组遍历.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-05-008-数组遍历/obj/x86/Debug/day-05-008-数组遍历.exe
+/Users/zmy-/Projects/学习笔记/day-05-008-数组遍历/obj/x86/Debug/day-05-008-数组遍历.pdb

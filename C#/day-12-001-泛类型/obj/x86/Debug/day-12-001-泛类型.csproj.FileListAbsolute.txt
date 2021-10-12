@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-12-001-泛类型/bin/Debug/day-12-001-泛类型.exe
+/Users/zmy-/Projects/学习笔记/day-12-001-泛类型/bin/Debug/day-12-001-泛类型.pdb
+/Users/zmy-/Projects/学习笔记/day-12-001-泛类型/obj/x86/Debug/day-12-001-泛类型.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-12-001-泛类型/obj/x86/Debug/day-12-001-泛类型.exe
+/Users/zmy-/Projects/学习笔记/day-12-001-泛类型/obj/x86/Debug/day-12-001-泛类型.pdb

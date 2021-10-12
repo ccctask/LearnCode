@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-09-003-派生类构造函数/bin/Debug/day-09-003-派生类构造函数.exe
+/Users/zmy-/Projects/学习笔记/day-09-003-派生类构造函数/bin/Debug/day-09-003-派生类构造函数.pdb
+/Users/zmy-/Projects/学习笔记/day-09-003-派生类构造函数/obj/x86/Debug/day-09-003-派生类构造函数.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-09-003-派生类构造函数/obj/x86/Debug/day-09-003-派生类构造函数.exe
+/Users/zmy-/Projects/学习笔记/day-09-003-派生类构造函数/obj/x86/Debug/day-09-003-派生类构造函数.pdb

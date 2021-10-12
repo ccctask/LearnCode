@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-07-002-面向对象编程/bin/Debug/day-07-002-面向对象编程.exe
+/Users/zmy-/Projects/学习笔记/day-07-002-面向对象编程/bin/Debug/day-07-002-面向对象编程.pdb
+/Users/zmy-/Projects/学习笔记/day-07-002-面向对象编程/obj/x86/Debug/day-07-002-面向对象编程.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-07-002-面向对象编程/obj/x86/Debug/day-07-002-面向对象编程.exe
+/Users/zmy-/Projects/学习笔记/day-07-002-面向对象编程/obj/x86/Debug/day-07-002-面向对象编程.pdb

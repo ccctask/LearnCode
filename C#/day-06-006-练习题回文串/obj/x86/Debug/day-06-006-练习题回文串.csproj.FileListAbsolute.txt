@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-06-006-练习题回文串/bin/Debug/day-06-006-练习题回文串.exe
+/Users/zmy-/Projects/学习笔记/day-06-006-练习题回文串/bin/Debug/day-06-006-练习题回文串.pdb
+/Users/zmy-/Projects/学习笔记/day-06-006-练习题回文串/obj/x86/Debug/day-06-006-练习题回文串.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-06-006-练习题回文串/obj/x86/Debug/day-06-006-练习题回文串.exe
+/Users/zmy-/Projects/学习笔记/day-06-006-练习题回文串/obj/x86/Debug/day-06-006-练习题回文串.pdb

@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-08-001-类的继承/bin/Debug/day-08-001-类的继承.exe
+/Users/zmy-/Projects/学习笔记/day-08-001-类的继承/bin/Debug/day-08-001-类的继承.pdb
+/Users/zmy-/Projects/学习笔记/day-08-001-类的继承/obj/x86/Debug/day-08-001-继承和虚方法.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-08-001-类的继承/obj/x86/Debug/day-08-001-类的继承.exe
+/Users/zmy-/Projects/学习笔记/day-08-001-类的继承/obj/x86/Debug/day-08-001-类的继承.pdb

@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day05-002-练习-选择性接收整数/obj/x86/Debug/day05-002-练习-选择性接收整数.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day05-002-练习-选择性接收整数/bin/Debug/day05-002-练习-选择性接收整数.exe
+/Users/zmy-/Projects/学习笔记/day05-002-练习-选择性接收整数/bin/Debug/day05-002-练习-选择性接收整数.pdb
+/Users/zmy-/Projects/学习笔记/day05-002-练习-选择性接收整数/obj/x86/Debug/day05-002-练习-选择性接收整数.exe
+/Users/zmy-/Projects/学习笔记/day05-002-练习-选择性接收整数/obj/x86/Debug/day05-002-练习-选择性接收整数.pdb

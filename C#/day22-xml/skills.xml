@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+    <skill>
+        <id>1</id>
+        <Name type="control">定身</Name>
+        <damage>2s</damage>
+ 
+    </skill>
+    <skill>
+        <id></id>
+        <Name type="debuff">减速</Name>
+        <damage>5s</damage>
+    </skill>
+</skills>

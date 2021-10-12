@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-2-switch/bin/Debug/day04-2-switch.exe
+/Users/zmy-/Projects/学习笔记/day04-2-switch/bin/Debug/day04-2-switch.pdb
+/Users/zmy-/Projects/学习笔记/day04-2-switch/obj/x86/Debug/day04-2-switch.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-2-switch/obj/x86/Debug/day04-2-switch.exe
+/Users/zmy-/Projects/学习笔记/day04-2-switch/obj/x86/Debug/day04-2-switch.pdb

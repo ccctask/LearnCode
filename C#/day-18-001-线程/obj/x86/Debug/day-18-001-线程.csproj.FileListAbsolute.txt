@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-18-001-线程/bin/Debug/day-18-001-线程.exe
+/Users/zmy-/Projects/学习笔记/day-18-001-线程/bin/Debug/day-18-001-线程.pdb
+/Users/zmy-/Projects/学习笔记/day-18-001-线程/obj/x86/Debug/day-18-001-线程.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-18-001-线程/obj/x86/Debug/day-18-001-线程.exe
+/Users/zmy-/Projects/学习笔记/day-18-001-线程/obj/x86/Debug/day-18-001-线程.pdb

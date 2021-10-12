@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-05-009-练习字符串处理/bin/Debug/day-05-009-练习字符串处理.exe
+/Users/zmy-/Projects/学习笔记/day-05-009-练习字符串处理/bin/Debug/day-05-009-练习字符串处理.pdb
+/Users/zmy-/Projects/学习笔记/day-05-009-练习字符串处理/obj/x86/Debug/day-05-009-练习字符串处理.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-05-009-练习字符串处理/obj/x86/Debug/day-05-009-练习字符串处理.exe
+/Users/zmy-/Projects/学习笔记/day-05-009-练习字符串处理/obj/x86/Debug/day-05-009-练习字符串处理.pdb

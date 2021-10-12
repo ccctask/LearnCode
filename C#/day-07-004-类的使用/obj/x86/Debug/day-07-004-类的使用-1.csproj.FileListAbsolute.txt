@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-07-004-类的使用/obj/x86/Debug/day-07-004-类的使用-1.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-07-004-类的使用/obj/x86/Debug/day-07-004-类的使用.exe
+/Users/zmy-/Projects/学习笔记/day-07-004-类的使用/obj/x86/Debug/day-07-004-类的使用.pdb
+/Users/zmy-/Projects/学习笔记/day-07-004-类的使用/bin/Debug/day-07-004-类的使用.exe
+/Users/zmy-/Projects/学习笔记/day-07-004-类的使用/bin/Debug/day-07-004-类的使用.pdb

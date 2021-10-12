@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/text-char/bin/Debug/text-char.exe
+/Users/zmy-/Projects/学习笔记/text-char/bin/Debug/text-char.pdb
+/Users/zmy-/Projects/学习笔记/text-char/obj/x86/Debug/text-char.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/text-char/obj/x86/Debug/text-char.exe
+/Users/zmy-/Projects/学习笔记/text-char/obj/x86/Debug/text-char.pdb

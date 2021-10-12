@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-练习-随机数/bin/Debug/day04-练习-随机数.exe
+/Users/zmy-/Projects/学习笔记/day04-练习-随机数/bin/Debug/day04-练习-随机数.pdb
+/Users/zmy-/Projects/学习笔记/day04-练习-随机数/obj/x86/Debug/day04-练习-随机数.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-练习-随机数/obj/x86/Debug/day04-练习-随机数.exe
+/Users/zmy-/Projects/学习笔记/day04-练习-随机数/obj/x86/Debug/day04-练习-随机数.pdb

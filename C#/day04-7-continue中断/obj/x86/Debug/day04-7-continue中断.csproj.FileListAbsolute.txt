@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-7-continue中断/bin/Debug/day04-7-continue中断.exe
+/Users/zmy-/Projects/学习笔记/day04-7-continue中断/bin/Debug/day04-7-continue中断.pdb
+/Users/zmy-/Projects/学习笔记/day04-7-continue中断/obj/x86/Debug/day04-7-continue中断.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-7-continue中断/obj/x86/Debug/day04-7-continue中断.exe
+/Users/zmy-/Projects/学习笔记/day04-7-continue中断/obj/x86/Debug/day04-7-continue中断.pdb

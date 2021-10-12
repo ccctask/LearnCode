@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-04-5-for循环/bin/Debug/day-04-5-for循环.exe
+/Users/zmy-/Projects/学习笔记/day-04-5-for循环/bin/Debug/day-04-5-for循环.pdb
+/Users/zmy-/Projects/学习笔记/day-04-5-for循环/obj/x86/Debug/day-04-5-for循环.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-04-5-for循环/obj/x86/Debug/day-04-5-for循环.exe
+/Users/zmy-/Projects/学习笔记/day-04-5-for循环/obj/x86/Debug/day-04-5-for循环.pdb

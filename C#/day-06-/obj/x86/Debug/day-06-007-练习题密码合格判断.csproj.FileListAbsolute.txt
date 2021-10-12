@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-06-/bin/Debug/day-06-.exe
+/Users/zmy-/Projects/学习笔记/day-06-/bin/Debug/day-06-.pdb
+/Users/zmy-/Projects/学习笔记/day-06-/obj/x86/Debug/day-06-007-练习题密码合格判断.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-06-/obj/x86/Debug/day-06-.exe
+/Users/zmy-/Projects/学习笔记/day-06-/obj/x86/Debug/day-06-.pdb

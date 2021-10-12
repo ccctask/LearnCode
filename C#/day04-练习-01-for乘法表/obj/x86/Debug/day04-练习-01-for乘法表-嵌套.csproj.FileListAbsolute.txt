@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-练习-01-for乘法表/bin/Debug/day04-练习-01-for乘法表.exe
+/Users/zmy-/Projects/学习笔记/day04-练习-01-for乘法表/bin/Debug/day04-练习-01-for乘法表.pdb
+/Users/zmy-/Projects/学习笔记/day04-练习-01-for乘法表/obj/x86/Debug/day04-练习-01-for乘法表-嵌套.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-练习-01-for乘法表/obj/x86/Debug/day04-练习-01-for乘法表.exe
+/Users/zmy-/Projects/学习笔记/day04-练习-01-for乘法表/obj/x86/Debug/day04-练习-01-for乘法表.pdb

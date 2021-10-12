@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day04-9-for练习整除求和/bin/Debug/day04-9-for练习整除求和.exe
+/Users/zmy-/Projects/学习笔记/day04-9-for练习整除求和/bin/Debug/day04-9-for练习整除求和.pdb
+/Users/zmy-/Projects/学习笔记/day04-9-for练习整除求和/obj/x86/Debug/day04-9-for练习整除求和.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day04-9-for练习整除求和/obj/x86/Debug/day04-9-for练习整除求和.exe
+/Users/zmy-/Projects/学习笔记/day04-9-for练习整除求和/obj/x86/Debug/day04-9-for练习整除求和.pdb

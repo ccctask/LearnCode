@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-06-004-练习题4字符加密/bin/Debug/day-06-004-练习题4字符加密.exe
+/Users/zmy-/Projects/学习笔记/day-06-004-练习题4字符加密/bin/Debug/day-06-004-练习题4字符加密.pdb
+/Users/zmy-/Projects/学习笔记/day-06-004-练习题4字符加密/obj/x86/Debug/day-06-004-练习题4字符加密.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-06-004-练习题4字符加密/obj/x86/Debug/day-06-004-练习题4字符加密.exe
+/Users/zmy-/Projects/学习笔记/day-06-004-练习题4字符加密/obj/x86/Debug/day-06-004-练习题4字符加密.pdb

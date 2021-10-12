@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-06-005-练习5数字大小排序/bin/Debug/day-06-005-练习5数字大小排序.exe
+/Users/zmy-/Projects/学习笔记/day-06-005-练习5数字大小排序/bin/Debug/day-06-005-练习5数字大小排序.pdb
+/Users/zmy-/Projects/学习笔记/day-06-005-练习5数字大小排序/obj/x86/Debug/day-06-005-练习5数字大小排序xx.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-06-005-练习5数字大小排序/obj/x86/Debug/day-06-005-练习5数字大小排序.exe
+/Users/zmy-/Projects/学习笔记/day-06-005-练习5数字大小排序/obj/x86/Debug/day-06-005-练习5数字大小排序.pdb

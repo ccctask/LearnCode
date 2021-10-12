@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day03-布尔运算/bin/Debug/day03-布尔运算.exe
+/Users/zmy-/Projects/学习笔记/day03-布尔运算/bin/Debug/day03-布尔运算.pdb
+/Users/zmy-/Projects/学习笔记/day03-布尔运算/obj/x86/Debug/day03-2-布尔运算.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day03-布尔运算/obj/x86/Debug/day03-布尔运算.exe
+/Users/zmy-/Projects/学习笔记/day03-布尔运算/obj/x86/Debug/day03-布尔运算.pdb

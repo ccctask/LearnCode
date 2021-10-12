@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day17-001-反射/bin/Debug/day17-001-反射.exe
+/Users/zmy-/Projects/学习笔记/day17-001-反射/bin/Debug/day17-001-反射.pdb
+/Users/zmy-/Projects/学习笔记/day17-001-反射/obj/x86/Debug/day17-001-反射.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day17-001-反射/obj/x86/Debug/day17-001-反射.exe
+/Users/zmy-/Projects/学习笔记/day17-001-反射/obj/x86/Debug/day17-001-反射.pdb

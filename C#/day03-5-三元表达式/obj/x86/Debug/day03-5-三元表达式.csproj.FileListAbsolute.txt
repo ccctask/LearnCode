@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day03-5-三元表达式/bin/Debug/day03-5-三元表达式.exe
+/Users/zmy-/Projects/学习笔记/day03-5-三元表达式/bin/Debug/day03-5-三元表达式.pdb
+/Users/zmy-/Projects/学习笔记/day03-5-三元表达式/obj/x86/Debug/day03-5-三元表达式.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day03-5-三元表达式/obj/x86/Debug/day03-5-三元表达式.exe
+/Users/zmy-/Projects/学习笔记/day03-5-三元表达式/obj/x86/Debug/day03-5-三元表达式.pdb

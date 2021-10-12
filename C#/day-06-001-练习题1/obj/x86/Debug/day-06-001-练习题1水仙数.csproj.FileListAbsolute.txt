@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-06-001-练习题1/bin/Debug/day-06-001-练习题1.exe
+/Users/zmy-/Projects/学习笔记/day-06-001-练习题1/bin/Debug/day-06-001-练习题1.pdb
+/Users/zmy-/Projects/学习笔记/day-06-001-练习题1/obj/x86/Debug/day-06-001-练习题1水仙数.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-06-001-练习题1/obj/x86/Debug/day-06-001-练习题1.exe
+/Users/zmy-/Projects/学习笔记/day-06-001-练习题1/obj/x86/Debug/day-06-001-练习题1.pdb

@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-05-007-数组/bin/Debug/day-05-007-数组.exe
+/Users/zmy-/Projects/学习笔记/day-05-007-数组/bin/Debug/day-05-007-数组.pdb
+/Users/zmy-/Projects/学习笔记/day-05-007-数组/obj/x86/Debug/day-05-007-数组.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-05-007-数组/obj/x86/Debug/day-05-007-数组.exe
+/Users/zmy-/Projects/学习笔记/day-05-007-数组/obj/x86/Debug/day-05-007-数组.pdb

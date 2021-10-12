@@ -1,0 +1,5 @@
+/Users/zmy-/Projects/学习笔记/day-06-002-练习题2/bin/Debug/day-06-002-练习题2.exe
+/Users/zmy-/Projects/学习笔记/day-06-002-练习题2/bin/Debug/day-06-002-练习题2.pdb
+/Users/zmy-/Projects/学习笔记/day-06-002-练习题2/obj/x86/Debug/day-06-002-练习题2.csproj.CoreCompileInputs.cache
+/Users/zmy-/Projects/学习笔记/day-06-002-练习题2/obj/x86/Debug/day-06-002-练习题2.exe
+/Users/zmy-/Projects/学习笔记/day-06-002-练习题2/obj/x86/Debug/day-06-002-练习题2.pdb

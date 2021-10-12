@@ -1,0 +1,100 @@
+﻿<Properties StartupConfiguration="{BB1EEE04-7CF9-4EDF-8727-A4562BB389FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.day-05-007-数组 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-09-003-派生类构造函数 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-18-001-线程 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-9-for练习整除求和 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-05-004-结构体 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-06-003-练习题3猜字游戏 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day03-5-三元表达式 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-2-switch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-1-ifelse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-08-001-继承和虚方法 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-06-004-01-练习题答案 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-06-005-练习5数字大小排序xx PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day21-Tcplisten FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-07-004-类的使用-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-3-while循环 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-15-002-委托多播 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day03-4-流程控制语句 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day05-001-判断字母大小写 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-8-练习switch计算器 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day02-获取用户输入 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-7-continue中断 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.001-属性的补充 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-07-002-面向对象编程 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-05-003-类型转换 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-06-007-练习题密码合格判断 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day03-1-练习 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="day03-04-流程控制语句/Program.cs">
+    <Files>
+      <File FileName="day22-xml/Program.cs" Line="13" Column="1" />
+      <File FileName="day22-xml/skills.xml" Line="14" Column="10" />
+      <File FileName="day22-xml/SkillClass.cs" Line="12" Column="1" />
+      <File FileName="day03-04-流程控制语句/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="学习笔记" expanded="True">
+            <Node name="day03-3-goto" expanded="True" />
+            <Node name="day03-4-流程控制语句" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="day22-xml" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.day02-赋值运算 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-15-001-委托和事件深度学习 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-17-002-特性 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day03-3-goto FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-19-001-Socket服务器端 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-16-004-LINQ查询 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-18-002-Thread类 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.text PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-14-01-委托的定义和使用 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-16-001-匿名方法与lambda FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day04-4-dowhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day05-002-练习-选择性接收整数 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-06-001-练习题1水仙数 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-09-001-隐藏方法 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-09-002-抽象类 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-练习-随机数 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.day-04-6-break练习 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-16-003-被观察和观察1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-06-002-练习题2可乐瓶 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-18-003-任务task FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-11-001-集合体之一List PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day20-001-多态重载 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-06-006-练习题回文串 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-10-001-接口 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.day-05-008-数组遍历 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-12-003-字符串和stringbuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day04-10-for循环练习 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day16-002-事件 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-13-001-正则表达式 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-07-001-try语句 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day04-练习-01-for乘法表-嵌套 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-12-001-泛类型 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-05-009-练习字符串处理 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-15-003-委托练习 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-05-005-枚举类型 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.day-06-004-练习题4字符加密 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-05-006-结构体和枚举的练习 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zmy-/Projects/学习笔记/day-06-006-练习题回文串/Program.cs" relfile="day-06-006-练习题回文串/Program.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.day03-2-布尔运算 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-04-5-for循环 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.text-char PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day17-001-反射 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day-12-002-创建自己的LIst FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.day22-xml FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
